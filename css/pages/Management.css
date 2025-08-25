@@ -1,0 +1,9 @@
+#Management{
+    padding-top: 130px;
+    background-color: white;
+}
+.Management{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
